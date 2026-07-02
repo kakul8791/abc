@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kakul8791/abc/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kakul8791/abc/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kakul8791/abc/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kakul8791/abc/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kakul8791/abc/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kakul8791/abc/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/kakul8791/abc/tree/master/0118-pascals-triangle) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kakul8791/abc/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kakul8791/abc/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kakul8791/abc/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kakul8791/abc/tree/master/0073-set-matrix-zeroes) |
 | [1314-matrix-block-sum](https://github.com/kakul8791/abc/tree/master/1314-matrix-block-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kakul8791/abc/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
